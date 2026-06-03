@@ -1,0 +1,42 @@
+Piyush Paste
+WEB DEVELOPER
+PROFESSIONAL SUMMARY
+Aspiring Web Developer with hands-on experience in building responsive websites and applications using
+HTML, CSS, JavaScript, and React.js. Strong foundation in frontend technologies and eager to contribute to
+real-world projects within an agile team.
+Phone: 
++91 7796835783
+EDUCATION
+Email:
+piyushpaste7@gmail.com 
+Bachelor of Computer Application| 2022-2025 
+Tilak Maharashtra University, Pune 
+GPA: 6.53
+HSC| 2021-2022 
+Rani Parvatidevi Highschool, Sawantwadi
+Percentage: 61.00
+SSC| 2019-2020 
+S.V.S.V Mangaon 
+Percentage: 82.40
+PROJECTS
+Address: Narayan Peth ,Pune
+411030
+QuickFund  
+Bachelor Of Computer Application Course, Final year of 2025
+Developed a fund management system for employee medical emergency assistance.
+Built user-friendly interfaces with notifications for request status and fund allocation.
+E-commerce Website for Fashion Sales
+Technologies Used: HTML, CSS, JavaScript, Bootstrap 
+E-commerce Blogging  Website 
+Technologies Used: HTML, CSS, JavaScript, Bootstrap , React.js
+SKILLS
+Web Technologies :  HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS
+Programming Languages : C, CPP, Java, Android
+Databases : SQL, MongoDB
+Operating System : Linux
+Version Control : Git, GitHub
+Development Tools : Visual Studio Code, Postman
+CERTIFICATION
+Full-Stack Web Development from It Education Center, Pune 
+EXPERIENCE
+Fresher 
